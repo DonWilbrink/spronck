@@ -1,0 +1,1 @@
+print('Aantal seconden in een week:',60*60*24*7)
