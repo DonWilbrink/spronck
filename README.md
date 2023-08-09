@@ -1,2 +1,2 @@
 # spronck
-Python boek van Spronck
+Opgaven en voorbeelden van het Python boek van Spronck
